@@ -3,11 +3,11 @@
 </div>
 
 ### 👨‍💻 About Me
-I engineer autonomous systems and high-performance web applications. My focus is on **Agentic AI workflows**, **Real-time Financial Data**, and **Scalable Architecture**.
+I build autonomous systems and AI web applications. My focus is on **Agentic AI workflows**, **Real-time Financial Data**, and **Scalable Architecture**.
 
 - 🔭 I’m currently building: **Autonomous Trading Agents (DiveAI)**
 - ⚡ I specialize in: **React, Node.js, TypeScript, and LLM Integration**
-- 📫 Reach me at: **[Your Email]**
+- 📫 Reach me at: sixscripts@proton.me
 
 ---
 
