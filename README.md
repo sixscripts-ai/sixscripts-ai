@@ -3,10 +3,10 @@
 </div>
 
 ### 👨‍💻 About Me
-I build autonomous systems and AI web applications. My focus is on **Agentic AI workflows**, **Real-time Financial Data**, and **Scalable Architecture**.
+I build self learning agentic biomes and local memory unity. My focus is on **Task workflows**, **Real-time Financial Data**, and **Scalable Architecture**.
 
-- 🔭 I’m currently building: **Autonomous Trading Agents (DiveAI)**
-- ⚡ I specialize in: **React, Node.js, TypeScript, and LLM Integration**
+- 🔭 I’m currently building: **Autonomous Skill Generation. Cross-pollinating skill ecosystem that manages quarantine, sandbox testing, human merge gates, DNA splicing, evolution ledger, (Ford)**
+- ⚡ I develop best in: **Python, React, Node.js, TypeScript, and LLM Integration**
 - 📫 Reach me at: sixscripts@proton.me
 
 ---
@@ -26,12 +26,12 @@ I build autonomous systems and AI web applications. My focus is on **Agentic AI 
 
 ### 🚀 Featured Projects
 
-| **Viva Picks** | **DiveAI** |
+| **GhostSSH** | **ICT-Engine** |
 |:---:|:---:|
-| **Sports Betting Analytics Platform** | **Autonomous Trading Agent** |
+| **Inventory intelligence platform for demand prediction and stock optimization.** | **Autonomous Knowledge Base Training** |
 | Real-time odds processing with <br> 99.9% uptime microservices. | LLM-powered market analysis <br> and psychological trader profiling. |
 | `React` `Node.js` `Turso` | `TypeScript` `Docker` `Gemini AI` |
-| [🔴 Live Site](https://vivapicks.tech/) | [🔵 Live Site](https://diveai-trading-analysis.vercel.app/) |
+| [🔴 Live Site](https://ghostssh.vercel.app/) | [🔵 Live Site](https://ict-knowledge-engine.vercel.app/) |
 
 <br />
 
